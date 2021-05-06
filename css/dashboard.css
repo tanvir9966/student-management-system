@@ -1,0 +1,38 @@
+body
+{
+    background-image: url(../image/daff.jpg);
+}
+
+.admintitle
+{
+    background-color: #2F4F4F;
+    color: #fff;
+    height: 140px;
+    margin-left: 50px;
+    margin-right: 50px;
+    line-height: 140px;
+    text-align: center;
+    margin-top: 89px;
+}
+
+.dashboard
+{
+    background-color: #00b3ff;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 200px;
+    font-size: 25px;
+}
+
+.dashboard table
+{
+    font-size: 25px;
+    color: #04569A;
+}
+
+a
+{
+    color: #04569A;
+    text-decoration: none;
+    font-weight: bold;
+}

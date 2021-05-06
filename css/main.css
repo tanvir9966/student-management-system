@@ -1,0 +1,77 @@
+body {
+	background-color: #000000;
+	text-align: center;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	background-image: url(../image/stars.jpg);
+}
+#container {
+	margin: auto;
+	width: 1000px;
+	height: auto;
+	border: thick;
+	border-color: Blue;
+	border-style: ridge;
+	background-color: #FFF;
+	filter:alpha(opacity=95);
+	-moz-opacity:.95;
+	opacity:.95;
+	text-align: center;
+}
+#header {
+	margin-top: 0;
+	text-align: center;
+	background-image: url(../image/top.jpg);
+	height: 160px;
+	width: 1000px;
+
+}
+
+#footer {
+	background-image: url(../image/sunset.jpg);
+	background-repeat: no-repeat;
+	height: 249px;
+	width: 1000px;
+	text-align: center;
+}
+a {
+	color: #61A7A7;	
+	text-decoration: none;
+}
+a:hover {
+	color: #00F;
+	text-decoration: underline;
+}
+#footerTop {
+	height: 190px;
+}
+#footerTop p {
+	color: #f5fe95;	
+}
+#footerBottom {
+	height: 60px;
+	font-size: 10px;
+
+}
+
+.hovermenu {
+	font: bold 25px arial;
+	background-color: #d8BDB2;
+	width: 1000px;
+}
+
+.hovermenu {
+display: inline;
+}
+
+.hovermenu  a{
+	text-decoration: none;
+	float: left;
+	color: black;
+	margin-left: 300px;
+}
+
+.hovermenu a:hover{
+background-color: #61A7A7;
+color: White;
+}
+
